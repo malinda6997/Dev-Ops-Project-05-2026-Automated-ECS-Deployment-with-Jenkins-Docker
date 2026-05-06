@@ -285,23 +285,23 @@ aws ecs describe-services \
 aws logs tail /ecs/apple-website-task --follow
 ```
 
-## 📸 Screenshots
+## 📸 AWS Deployment Screenshots
 
-### Dashboard Overview
+### ECS Dashboard Overview
 ![ECS Dashboard](public/readme_images/ecs%20page%201.png)
 
-### Application Interface
-![Screenshot 1](public/readme_images/Screenshot%202026-05-06%20155742.png)
+### AWS Console - Deployment Configuration
+![AWS Console 1](public/readme_images/Screenshot%202026-05-06%20155742.png)
 
-### Feature Showcase
-![Screenshot 2](public/readme_images/Screenshot%202026-05-06%20165602.png)
-![Screenshot 3](public/readme_images/Screenshot%202026-05-06%20165627.png)
+### ECS Task Configuration
+![ECS Task Config 1](public/readme_images/Screenshot%202026-05-06%20165602.png)
+![ECS Task Config 2](public/readme_images/Screenshot%202026-05-06%20165627.png)
 
-### 3D Model Interaction
-![Screenshot 4](public/readme_images/Screenshot%202026-05-06%20165731.png)
+### CloudWatch Logs Integration
+![CloudWatch Logs](public/readme_images/Screenshot%202026-05-06%20165731.png)
 
-### Responsive Design
-![Screenshot 5](public/readme_images/Screenshot%202026-05-06%20165809.png)
+### Service Monitoring & Status
+![Service Status](public/readme_images/Screenshot%202026-05-06%20165809.png)
 
 ## 🛠️ Troubleshooting
 
