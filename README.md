@@ -973,5 +973,5 @@ in the Software without restriction...
 **Last Updated**: May 14, 2026  
 **Version**: 1.0.0  
 **Status**: ✅ Production Ready  
-**Maintained By**: DevOps Team  
-**Contact**: development@example.com
+**Maintained By**: Malinda Prabath  
+**Contact**: malindaprabath876@gmail.com

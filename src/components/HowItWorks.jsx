@@ -30,7 +30,7 @@ const HowItWorks = () => {
   return (
     <section className="common-padding">
       <div className="screen-max-width">
-        <div id="chip" className="flex-center w-full my-20">
+        <div id="chip" className="w-full my-20 flex-center">
           <img src={chipImg} alt="chip" width={180} height={180} />
         </div>
 
@@ -51,7 +51,7 @@ const HowItWorks = () => {
               <img 
                 src={frameImg}
                 alt="frame"
-                className="bg-transparent relative z-10"
+                className="relative z-10 bg-transparent"
               />
             </div>
             <div className="hiw-video">
@@ -60,11 +60,11 @@ const HowItWorks = () => {
                 </video>
               </div>
           </div>
-          <p className="text-gray font-semibold text-center mt-3">Honkai: Star Rail</p>
+          <p className="mt-3 font-semibold text-center text-gray">Honkai: Star Rail</p>
           </div>
 
           <div className="hiw-text-container">
-                <div className="flex flex-1 justify-center flex-col">
+                <div className="flex flex-col justify-center flex-1">
                   <p className="hiw-text g_fadeIn">
                     A17 Pro is an entirely new class of iPhone chip that delivers our {' '}
                     <span className="text-white">
@@ -82,7 +82,7 @@ const HowItWorks = () => {
                 </div>
               
 
-              <div className="flex-1 flex justify-center flex-col g_fadeIn">
+              <div className="flex flex-col justify-center flex-1 g_fadeIn">
                 <p className="hiw-text">New</p>
                 <p className="hiw-bigtext">Pro-class GPU</p>
                 <p className="hiw-text">with 6 cores</p>
